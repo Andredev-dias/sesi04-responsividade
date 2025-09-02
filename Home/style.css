@@ -55,7 +55,8 @@ body {
 
 .line1 {
     height: 3px;
-    background-color: var(--yellow);
+    background-color: var(--orange);
+    border-color:var(--orange);
     width: 90%;
     margin: 0 auto;
 }
